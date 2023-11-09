@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rmndep
 
-- 🌱 I’m currently learning Data Structure and Algorithms aka DSA.
+- 🌱 I’m currently learning OOPs (CPP) and Data Structure & Algorithms.
 
 
 <!---
